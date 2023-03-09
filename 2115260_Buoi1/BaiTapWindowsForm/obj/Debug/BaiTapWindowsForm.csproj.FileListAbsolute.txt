@@ -1,0 +1,14 @@
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe.config
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.pdb
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.AssemblyReference.cache
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai1.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmChinh.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.Properties.Resources.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.GenerateResource.cache
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.CoreCompileInputs.cache
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.exe
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.pdb
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai2.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai3.resources

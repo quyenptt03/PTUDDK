@@ -1,0 +1,15 @@
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\bin\Debug\TKForm_Bai1_1.exe.config
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\bin\Debug\TKForm_Bai1_1.exe
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\bin\Debug\TKForm_Bai1_1.pdb
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\obj\Debug\TKForm_Bai1_1.csproj.AssemblyReference.cache
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\obj\Debug\TKForm_Bai1_1.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\obj\Debug\TKForm_Bai1_1.frmBai1.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\obj\Debug\TKForm_Bai1_1.frmChinh.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\obj\Debug\TKForm_Bai1_1.Properties.Resources.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\obj\Debug\TKForm_Bai1_1.csproj.GenerateResource.cache
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\obj\Debug\TKForm_Bai1_1.csproj.CoreCompileInputs.cache
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\obj\Debug\TKForm_Bai1_1.exe
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\obj\Debug\TKForm_Bai1_1.pdb
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\obj\Debug\TKForm_Bai1_1.frmBai2.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\obj\Debug\TKForm_Bai1_1.frmBai3.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\TKForm_Bai1_1\obj\Debug\TKForm_Bai1_1.frmBai4.resources
