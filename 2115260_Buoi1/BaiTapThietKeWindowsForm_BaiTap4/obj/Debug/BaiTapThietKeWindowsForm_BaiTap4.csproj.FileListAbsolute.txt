@@ -1,0 +1,14 @@
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\bin\Debug\BaiTapThietKeWindowsForm_BaiTap4.exe.config
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\bin\Debug\BaiTapThietKeWindowsForm_BaiTap4.exe
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\bin\Debug\BaiTapThietKeWindowsForm_BaiTap4.pdb
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\obj\Debug\BaiTapThietKeWindowsForm_BaiTap4.csproj.AssemblyReference.cache
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\obj\Debug\BaiTapThietKeWindowsForm_BaiTap4.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\obj\Debug\BaiTapThietKeWindowsForm_BaiTap4.frmChinh.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\obj\Debug\BaiTapThietKeWindowsForm_BaiTap4.Properties.Resources.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\obj\Debug\BaiTapThietKeWindowsForm_BaiTap4.csproj.GenerateResource.cache
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\obj\Debug\BaiTapThietKeWindowsForm_BaiTap4.csproj.CoreCompileInputs.cache
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\obj\Debug\BaiTapThietKeWindowsForm_BaiTap4.exe
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\obj\Debug\BaiTapThietKeWindowsForm_BaiTap4.pdb
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\obj\Debug\BaiTapThietKeWindowsForm_BaiTap4.frmBai1.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\obj\Debug\BaiTapThietKeWindowsForm_BaiTap4.frmBai2.resources
+D:\Nam 2\PTUDDK\2115260_Buoi1\2115260_Bai01\BaiTapThietKeWindowsForm_BaiTap4\obj\Debug\BaiTapThietKeWindowsForm_BaiTap4.frmBai3.resources
