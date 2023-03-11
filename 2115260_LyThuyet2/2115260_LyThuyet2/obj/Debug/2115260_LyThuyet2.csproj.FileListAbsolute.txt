@@ -1,0 +1,17 @@
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\bin\Debug\2115260_LyThuyet2.exe.config
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\bin\Debug\2115260_LyThuyet2.exe
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\bin\Debug\2115260_LyThuyet2.pdb
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\2115260_LyThuyet2.csproj.AssemblyReference.cache
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\2115260_LyThuyet2.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\_2115260_LyThuyet2.demoPanel.resources
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\_2115260_LyThuyet2.frmGroupbox.resources
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\_2115260_LyThuyet2.MainForm.resources
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\_2115260_LyThuyet2.Properties.Resources.resources
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\2115260_LyThuyet2.csproj.GenerateResource.cache
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\2115260_LyThuyet2.csproj.CoreCompileInputs.cache
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\2115260_LyThuyet2.exe
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\2115260_LyThuyet2.pdb
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\_2115260_LyThuyet2.frmMenuStrip.resources
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\_2115260_LyThuyet2.frmStatusStrip.resources
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\_2115260_LyThuyet2.frmContextMenu.resources
+D:\Nam 2\PTUDDK\2115260_LyThuyet2\2115260_LyThuyet2\obj\Debug\_2115260_LyThuyet2.frmImageList.resources
