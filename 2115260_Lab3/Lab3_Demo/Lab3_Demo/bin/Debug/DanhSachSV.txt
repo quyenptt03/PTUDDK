@@ -1,0 +1,8 @@
+SV.00004,Nguyễn Văn Hùng,23/05/2003,"13 Trần Khánh Dư-P8",CTK45B,img4.jpg,Nam,Hệ thống thông tin,
+SV.21527,Nguyễn Trung Tín,02/10/2003,"376 Nguyên Tử Lực- P.8",CTK45B,img1.jpg,Nam,Mạng truyền thông,
+SV.00003,Nguyễn Văn A,15/08/2003,"59 Trần Khánh Dư- P8",CTK45B,img3.jpg,Nữ,Trí tuệ nhân tạo,
+SV.21522,Nguyễn Đức Đại Lộc,15/02/2003,265/13 Bùi Thị Xuân-P.2,CTK45B,img2.jpg,Nam,Công nghệ phần mềm,
+SV.00002,Lê Thị Anh Thư,15/02/2003,265/13 Bùi Thị Xuân-P.2,CTK45B,img2.jpg,Nam,Công nghệ phần mềm,
+SV.11298,Lâm Thị Yến Linh,15/08/2003,"59 Trần Khánh Dư- P8",CTK45B,img3.jpg,Nữ,Trí tuệ nhân tạo,
+SV.11207,Đinh Trọng Hiếu,23/05/2003,"13 Trần Khánh Dư-P8",CTK45B,img4.jpg,Nam,Hệ thống thông tin,
+SV.00001,Hoàng Lâm Vĩ,22/10/2003,"Đà lạt",CTK45A,img1.jpg,Nam,Mạng truyền thông,

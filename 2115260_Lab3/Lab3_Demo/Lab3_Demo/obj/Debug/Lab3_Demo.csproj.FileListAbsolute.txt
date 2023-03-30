@@ -1,0 +1,30 @@
+D:\2115260_Lab3\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+D:\2115260_Lab3\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+D:\2115260_Lab3\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+D:\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csprojResolveAssemblyReference.cache
+D:\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+D:\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.Cache
+D:\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+D:\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
+D:\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+D:\Nam 2\PTUDDK\2115260_Lab3\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+D:\Nam 2\PTUDDK\2115260_Lab3\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+D:\Nam 2\PTUDDK\2115260_Lab3\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+D:\Nam 2\PTUDDK\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.AssemblyReference.cache
+D:\Nam 2\PTUDDK\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2\PTUDDK\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+D:\Nam 2\PTUDDK\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+D:\Nam 2\PTUDDK\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+D:\Nam 2\PTUDDK\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+D:\Nam 2\PTUDDK\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+D:\Nam 2\PTUDDK\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
+D:\Lab03_2115260\2115260_Lab3\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+D:\Lab03_2115260\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+D:\Lab03_2115260\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
+D:\Lab03_2115260\2115260_Lab3\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+D:\Lab03_2115260\2115260_Lab3\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+D:\Lab03_2115260\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csprojResolveAssemblyReference.cache
+D:\Lab03_2115260\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+D:\Lab03_2115260\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+D:\Lab03_2115260\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.Cache
+D:\Nam 2\PTUDDK\2115260_Lab3\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmTuyChon.resources
