@@ -1,0 +1,7 @@
+D:\2115260_Lab2\MyForm\MyForm\bin\Debug\MyForm.exe.config
+D:\2115260_Lab2\MyForm\MyForm\bin\Debug\MyForm.exe
+D:\2115260_Lab2\MyForm\MyForm\bin\Debug\MyForm.pdb
+D:\2115260_Lab2\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+D:\2115260_Lab2\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.Cache
+D:\2115260_Lab2\MyForm\MyForm\obj\Debug\MyForm.exe
+D:\2115260_Lab2\MyForm\MyForm\obj\Debug\MyForm.pdb
